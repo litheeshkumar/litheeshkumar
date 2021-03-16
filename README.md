@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @litheeshkumar
 - 👀 I’m interested in Python, Java
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new projects on python
 - 📫 How to reach me litheesh.kamarthi@gmail.com
 
 <!---
