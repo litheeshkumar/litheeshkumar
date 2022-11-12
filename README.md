@@ -55,9 +55,6 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/56591763/201490138-e1c00701-9481-4dc7-b416-c189feb49046.png" alt="latex" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithin5736&show_icons=true&locale=en&layout=compact" alt="nithin5736" height="120" /></p>
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithin5736&show_icons=true&locale=en" alt="nithin5736" width="400" align="right" /></p>-->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithin5736&" alt="nithin5736" /></p>
-
+---------------------
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=litheeshkumar&show_icons=true&theme=radical" alt="litheeshkumar" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=litheeshkumar&layout=compact" alt="litheeshkumar" /></p>
