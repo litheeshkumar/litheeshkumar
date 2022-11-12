@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---------------------
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=litheeshkumar&show_icons=true&theme=radical" alt="litheeshkumar" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=litheeshkumar&show_icons=true&theme=radical" alt="litheeshkumar" /> </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=litheeshkumar&layout=compact" alt="litheeshkumar" />
 </p>
