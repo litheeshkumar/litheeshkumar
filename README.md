@@ -12,10 +12,9 @@ You can click the Preview link to take a look at your changes.
   <li>👋 Hi, I’m @litheeshkumar</li>
   <li>👀 I’m interested in C, C++, Python</li>
   <li>🌱 I’m currently learning Backend Web Development</li>
-  <li>💞️ I’m looking to collaborate on new projects on Web Development</li>  
-  <li>🤔 Exploring new technologies, developing software solutions etc..</li>
+  <li>💞️ I am looking to collaborate on new projects on Web Development</li>  
+  <li>🤔 Exploring new technologies, developing software solutions</li>
   <li>📫 How to reach me litheesh.kamarthi@gmail.com</li>
-  <li>🗨️ Ping me if you wanna have a short chat about anything in Tech!</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
