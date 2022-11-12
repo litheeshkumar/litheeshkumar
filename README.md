@@ -50,11 +50,9 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/56591763/201489537-02309f92-63e3-4923-96b1-cba10b5006cb.png" alt="matlab" width="40" height="40"/> </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/56591763/201489332-1cb3ca05-a143-40ae-bb06-b680febc20f8.png" alt="bash" width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/56591763/201489382-5cba586c-117c-404d-8056-da6530d59111.png" alt="arduino" width="40" height="40"/> </a>
+      <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/56591763/201490223-9ef982aa-22da-4944-adc7-5caec34c383e.png" alt="RaspberryPi" width="40" height="40"/> </a>
     <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/56591763/201489418-bbb667b7-49d8-46bc-9a77-c0d627427a10.png" alt="R" width="40" height="40"/> </a>
-    <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-    <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-    <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-    <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
+    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/56591763/201490138-e1c00701-9481-4dc7-b416-c189feb49046.png" alt="latex" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithin5736&show_icons=true&locale=en&layout=compact" alt="nithin5736" height="120" /></p>
