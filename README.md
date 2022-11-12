@@ -9,12 +9,13 @@ You can click the Preview link to take a look at your changes.
 
 <h3>About me 🧑</h3>
 <ul>
-  <li>👋 Hi, I’m @litheeshkumar</li>
+  <li>👋 I’m an ECE UnderGraduate in IIIT Sricity</li>
   <li>👀 I’m interested in C, C++, Python</li>
   <li>🌱 I’m currently learning Backend Web Development</li>
-  <li>💞️ I am looking to collaborate on new projects on Web Development</li>  
+  <li>💞️ I am looking to collaborate on new projects in Web Development</li>  
   <li>🤔 Exploring new technologies, developing software solutions</li>
-  <li>📫 How to reach me litheesh.kamarthi@gmail.com</li>
+  <li>📫 How to reach me <a href="mailto:litheesh.kamarthi@gmail.com" >litheesh.kamarthi@gmail.com</a></li>
+  
 </ul>
 
 <h3 align="left">Connect with me:</h3>
@@ -56,5 +57,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---------------------
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=litheeshkumar&show_icons=true&theme=radical" alt="litheeshkumar" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=litheeshkumar&layout=compact" alt="litheeshkumar" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=litheeshkumar&show_icons=true&theme=radical" alt="litheeshkumar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=litheeshkumar&layout=compact" alt="litheeshkumar" />
+</p>
